@@ -1,0 +1,26 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: SBOM-SPDX-8d4ab4d3-27da-4a02-95a2-52f7ee24a529
+DocumentNamespace: https://spdx.org/spdxdocs/k8s-releng-bom-94198e96-f738-4006-9c47-78d6d804f03b
+Creator: Organization: Kubernetes Release Engineering
+Creator: Tool: sigs.k8s.io/bom/pkg/spdx
+Created: 2022-09-02T20:11:20Z
+
+
+
+##### Files independent of packages
+
+FileName: scan.sh
+SPDXID: SPDXRef-File-scan.sh
+FileChecksum: SHA1: 3bf11d6bc1c6373b0a7b116c4343493133b81ced
+FileChecksum: SHA256: c5ddeffbb2dc8a398334c83ff9028e9272c4a65d2b445e22bc148e664c74d2e1
+FileChecksum: SHA512: a19a485373db9425fc500532515376711d40ef92fe185e29ed015983dd6d4ca0fac7c9b5e72159597b436c5aac83ab6f0b2051b4ecfedd6a4c4af244c216169c
+FileType: SOURCE
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-File-scan.sh
+
