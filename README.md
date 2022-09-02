@@ -8,7 +8,7 @@ results that works with any kind of artifact.
 
 You can pipe files or give it a reference, it all works:
 
-```
+```bash
 # Pipe files through the scanner:
 
 cat virus.exe | ./scan.sh
